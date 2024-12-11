@@ -6,7 +6,7 @@ This project extracts seminal input features from C code using LLVM.
 
 ##### NOTE: Please only run on VCL (program relies on debug instructions which may not generate correctly on other platforms (ex: MacOS))
 
-#### RECOMMENDED: A script is located in the working directory to run the LLVM pass on a given test. Replace \<file_name\> with file names given under Testing below
+#### RECOMMENDED: A script is located in the working directory to run the LLVM pass on a given test. Replace \<file_name\> with file names or use the commands directly given under Testing
 `bash clean_build.sh <file_name>`
 
 ##### If you would like to CMake manually run these in the working directory
