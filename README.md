@@ -1,4 +1,4 @@
-# CSC512 Course Project (Part-2-dev)
+# CSC512 Course Project (Part-2-sub)
 
 This project extracts seminal input features from C code using LLVM.
 
